@@ -1,0 +1,100 @@
+<head>
+    <link rel="stylesheet" href="../styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link href = "https://fonts.googleapis.com/icon?family=Material+Icons" rel = "stylesheet">
+    <script src="../js/jquery-3.4.1.min.js"></script>
+</head>
+<body>
+    <div class = "general-container">
+
+        <div class="navbar-container">
+                <h3 class="navbar-name">
+                    ESTEBAN PÉREZ
+                </h3>
+                <div class = "navbar">
+                        <a href="../index.html" class = "navbar-link">Home</a>
+                        <a href="./collections.html" class = "navbar-link">Works</a>
+                        <a href="./bio.html" class = "navbar-link">Bio</a>
+                        <a href="./contact.html" class = "navbar-link">Contact</a>
+                </div>
+        </div>
+        <div class = "works-row">
+            <div class = "works-side-panel">
+                <a href="../content/works.html?col=coll1" class = "works-links">
+                    Snapshots
+                </a>
+                <a href="../content/works.html?col=coll2" class = "works-links">
+                    Restos
+                </a>
+                <a href="../content/works.html?col=coll3" class = "works-links">
+                    Transitory
+                </a>
+                <a href="../content/works.html?col=coll4" class = "works-links">
+                    Mudigkeitsgeselschaft
+                </a>
+                <a href="../content/works.html?col=coll5" class = "works-links">
+                    Found objects
+                </a>
+                <a href="../content/works.html?col=coll6" class = "works-links">
+                    Early works
+                </a>
+                <a href="../content/works.html?col=coll7" class = "works-links">
+                    Drawings
+                </a>
+            </div>
+
+            <div class = "works-main-content">
+                <img 
+                    id = "displayed-image" 
+                    class = "works-displayed-image" 
+                    src= "" 
+                    onclick="toggleImageViewer()"
+                   />
+
+                <div class = "works-button-row">
+                    <a href = "#" class="next-image-button" onclick="changeImage(-1)">Previous</a>
+                    <a href ="#" class="previous-image-button" onclick="changeImage(1)">Next</a>
+                </div>
+              
+            </div>
+
+            <div class = "works-information"> 
+                <h3 class = "work-title"></h3>
+                <p class ="work-year" id = "work-year"></p>
+                <p class = "work-description"></p>
+                <p class = "work-size"></p>
+                <p class = "work-gallery"></p>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+    <div id = "image-viewer" class = "image-viewer hidden-section">
+        <div class = "previous-button-container">
+            <i onclick="changeImage(-1)" class = "viewer-previous-button material-icons">arrow_back_ios</i>
+        </div>
+
+        <div class = "displayed-image-container">
+            <img onmouseover="toggleImageViewerImageInfo()" id="displayed-image-big" class = "works-displayed-image big-image" src= ""/>
+            <div id = "viewer-image-info" class = "viewer-image-info">
+                <h3 class = "work-title viewer-info"></h3>
+                <p class ="work-year viewer-info"></p>
+                <p class = "work-description viewer-info"></p>
+                <p class = "work-size viewer-info"></p>
+                <p class = "work-gallery viewer-info"></p>
+
+            </div>
+        </div>
+             
+        <div class = "next-button-container" >
+            <i onclick="toggleImageViewer()" class = "exit-viewer-button material-icons" class = "material-icons">close</i>
+            <i onclick="changeImage(1)" class = "viewer-next-button material-icons">arrow_forward_ios</i>
+        </div>
+    </div>
+
+    <script src="../js/works.js"></script>
+</body>
