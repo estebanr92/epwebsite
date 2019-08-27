@@ -134,12 +134,14 @@ body {
     width: 80%;
     max-height: 60vh;
     object-fit: contain;
+    cursor: pointer;
 }
 
 .works-displayed-image.big-image {
     max-width: 55%;
     max-height: 90vh;
     object-fit: contain;
+    cursor: unset;
 } 
 
 .works-button-row {
@@ -152,6 +154,7 @@ body {
 
 .work-title {
     margin-top: 0;
+    font-style: italic;
 }
 
 .work-year {
@@ -433,7 +436,7 @@ h3.bio-education-title, h3.bio-exhibition-title {
 }
 
 .collection-image-info-container:hover{
-   opacity: 0.8;
+   opacity: 0.6;
 }
 
 
