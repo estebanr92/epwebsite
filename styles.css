@@ -339,8 +339,8 @@ h3.bio-education-title, h3.bio-exhibition-title {
 }
 
 .contact-image-container {
-    width:340px;
-    height: 220px;
+    width:285px;
+    height: 180px;
 }
 
 .contact-image {
@@ -352,7 +352,7 @@ h3.bio-education-title, h3.bio-exhibition-title {
 .contact-info {
     display: flex;
     flex-direction: column;
-    margin-left: 90px;
+    margin-left: 80px;
     color: rgb(128,128,128);
     font-size: 14px;
 }
