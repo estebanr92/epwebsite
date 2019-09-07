@@ -244,8 +244,8 @@ body {
     opacity: 0;
     visibility: hidden;
     padding: 10px;
-    background-color: black;
-    color:white;
+    background-color: white;
+    color:black;
     -webkit-transition: opacity 3000ms, visibility 3000ms;
     transition: opacity 3000ms, visibility 3000ms;
     flex-direction: row;
@@ -258,7 +258,7 @@ body {
 }
 
 .viewer-image-info.visible-image-info {
-    opacity: 0.4;
+    opacity: 0.5;
     visibility: visible;
 }
 
@@ -427,11 +427,15 @@ h3.bio-education-title, h3.bio-exhibition-title {
     width: 100%;
     height: 100%;
     margin: 0;
-    background-color: rgb(51,51,51);
+    background-color: white;
     color: white;
     opacity: 0;
     align-items: center;
     justify-content: center;
+}
+
+.collection-image-info-container p {
+    color:black;
 }
 
 .collection-image-info-container:hover{
