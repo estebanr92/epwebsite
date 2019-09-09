@@ -231,7 +231,7 @@ const imagesInf = {
             name: 'Triplete',
             year: '2018',
             description: '',
-            Gallery: 'No lugar',
+            gallery: 'No lugar',
         },
     ],
     coll5: [
@@ -274,7 +274,7 @@ const imagesInf = {
             file: '../images/Triplete-14.jpg',
             name: 'Found Objects',
             year: '2018',
-            Gallery: 'No lugar',
+            gallery: 'No lugar',
             description: '',
   
         },
@@ -283,7 +283,7 @@ const imagesInf = {
            name: 'Found Objects',
            year: '2018',
            description: '',
-           Gallery: 'No lugar'
+           gallery: 'No lugar'
         },
         {
             file: '../images/Triplete-16.jpg',
@@ -303,7 +303,7 @@ const imagesInf = {
             file: '../images/Triplete-20.jpg',
            name: 'Found Objects',
            year: '2018',
-           Gallery: 'No lugar',
+           gallery: 'No lugar',
            description: ''
         },
          {
@@ -338,7 +338,7 @@ const imagesInf = {
             file: '../images/Triplete-29.jpg',
             name: 'Found Objects',
             year: '2018',
-            Gallery: 'No lugar',
+            gallery: 'No lugar',
             description: '',
         },
         {
@@ -438,12 +438,12 @@ function setImageData(slideIndex) {
   displayedImage.src= newSrc;
   displayedImageBig.src= newSrc;
   const imageGallery = imageData.gallery || "";
+  const imageDimensions = imageData.dimensions || "";
   $(".work-title").html(imageData.name);
   $(".work-year").html(imageData.year);
   $(".work-description").html(imageData.description);
-  $(".work-size").html(imageData.dimensions); 
+  $(".work-size").html(imageDimensions); 
   $(".work-gallery").html(imageGallery); 
-
 }
 
 function toggleImageViewer () {
