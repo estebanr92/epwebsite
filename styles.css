@@ -400,7 +400,7 @@ h3.bio-education-title, h3.bio-exhibition-title {
 .collection-container {
     display: flex;
     flex-direction: column;
-    margin-top:70px;
+    margin-top:85px;
     width: 80%;
     align-self: center;
 }
