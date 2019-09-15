@@ -12,19 +12,29 @@
                     ESTEBAN PÉREZ
                 </h3>
                 <div class = "navbar">
-                        <a href="#" class = "navbar-link">Home</a>
                         <a href="./content/collections.html" class = "navbar-link">Works</a>
                         <a href="./content/bio.html" class = "navbar-link">Bio</a>
                         <a href="./content/contact.html" class = "navbar-link">Contact</a>
                 </div>
+
+                <svg id = "mobile-menu-button" class ="menu-button" fill = "#fff" height="20px" id="Layer_1" style="enable-background:new 0 0 32 32;" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/></svg>
+
             </div>
 
             
-            <div class="home-page-image" src= "./images/Roma.jpg">
+            <div class="home-page-image page-container" src= "./images/Roma.jpg">
 
             
   
         </div>
 
+        <div id = "mobile-menu" class = "mobile-menu hidden-section">
+            <a href="#" class = "mobile-menu-link main-page-menu-link">Home</a>
+            <a href="./content/collections.html" class = "mobile-menu-link main-page-menu-link">Works</a>
+            <a href="./content/bio.html" class = "mobile-menu-link main-page-menu-link">Bio</a>
+            <a href="./content/contact.html" class = "mobile-menu-link main-page-menu-link">Contact</a>
+        </div>
+
+        <script src="./js/mobile-behavior.js"></script>
     </body>
 </html>
