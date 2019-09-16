@@ -14,6 +14,10 @@ body {
     display: none;
 }
 
+.exit-viewer-button-mobile {
+    display: none !important;
+}
+
 
 .home-page {
     background-color: rgb(51,51,51);
@@ -483,6 +487,7 @@ h3.bio-education-title, h3.bio-exhibition-title {
         display: flex;
         margin-left: 15px;
         margin-bottom: 6px;
+        cursor: pointer;
     }
     .mobile-menu {
         position: absolute;
@@ -554,8 +559,6 @@ h3.bio-education-title, h3.bio-exhibition-title {
         height: 100%;
         margin-top: 0;
         margin-bottom: 30px;
-    }
-    .bio-navbar {
     }
 
     .collection-container {
@@ -642,5 +645,29 @@ h3.bio-education-title, h3.bio-exhibition-title {
         display: flex;
         margin-top: 20px;
     } 
+
+    .exit-viewer-button-mobile {
+        position: absolute !important;
+        display: flex !important;
+        top:5px;
+        right: 20px;
+        cursor: pointer;
+        color:rgb(51,51,51);
+        top: 15px;
+    }
+
+    .collection-item {
+        width: 150px;
+        height: 140px;
+    }
+
+    .viewer-image-info {
+        visibility: visible;
+        opacity: 0.9;
+    }
+    .collection-image-info-container {
+        opacity: 0.4;
+        word-wrap: anywhere;
+    }
 
 }
