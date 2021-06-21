@@ -35,7 +35,7 @@ body {
     background-position: center;
     background-size:cover; 
     background-repeat: no-repeat; 
-    background-image: url('./images/Roma.jpg'); 
+    background-image: url('./images/BF1.jpg'); 
 }
 
 
@@ -310,6 +310,7 @@ body {
     flex-direction: column;
     width: 35%;
     align-items: flex-end;
+    height: 1000px;
 }
 
 .bio-image {
@@ -343,6 +344,22 @@ h3.bio-education-title, h3.bio-exhibition-title {
     margin-bottom: 5px;
 }
 
+.solo-exhib-item {
+    margin-top:5px;
+    margin-bottom: 0px;
+}
+
+.solo-exhib-secondary-item {
+    margin-top: 7px;
+}
+
+.exhib-secondary-title {
+    font-style: italic;
+}
+
+.bio-section-title {
+    color: black;
+}
 
 /*CONTACT Section */
 
