@@ -24,21 +24,39 @@
         <div class = "works-row page-container">
             <div class = "works-side-panel">
                 <a href="../content/works.html?col=coll1" class = "works-links">
-                    Snapshots
+                    Liquid Land
                 </a>
                 <a href="../content/works.html?col=coll2" class = "works-links">
-                    Restos
+                    Liquid Beings
                 </a>
                 <a href="../content/works.html?col=coll3" class = "works-links">
-                    Transitory
+                    Bifuración Sonora
                 </a>
                 <a href="../content/works.html?col=coll4" class = "works-links">
-                    Müdigkeitsgeselschaft
+                    Earth Project
                 </a>
                 <a href="../content/works.html?col=coll5" class = "works-links">
-                    Found objects
+                    The Memory of Water
                 </a>
                 <a href="../content/works.html?col=coll6" class = "works-links">
+                    Homage to Failure
+                </a>
+                <a href="../content/works.html?col=coll7" class = "works-links">
+                    Snapshots
+                </a>
+                <a href="../content/works.html?col=coll8" class = "works-links">
+                    Restos
+                </a>
+                <a href="../content/works.html?col=coll9" class = "works-links">
+                    Transitory
+                </a>
+                <a href="../content/works.html?col=coll10" class = "works-links">
+                    Müdigkeitsgesellschaft
+                </a>
+                <a href="../content/works.html?col=coll11" class = "works-links">
+                    Found objects
+                </a>
+                <a href="../content/works.html?col=coll12" class = "works-links">
                     Early works
                 </a>
             </div>
@@ -48,8 +66,16 @@
                     id = "displayed-image" 
                     class = "works-displayed-image" 
                     src= "" 
-                    onclick="toggleImageViewer()"
-                   />
+                    onclick="toggleImageViewer()"/>
+                <div class='hidden-element collection-description' id="collection-description"></div>
+
+                <div class='hidden-element collection-video-iframe-container'> 
+                    <iframe id='collection-video-iframe' frameborder="no"
+                    width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" 
+                    allowfullscreen></iframe>
+                    <div id='collection-audio-extra hidden-element'></div>
+                </div>
+               
 
                 <div class = "works-button-row">
                     <a href = "#" class="next-image-button" onclick="changeImage(-1)">Previous</a>
@@ -64,7 +90,7 @@
                 <p class = "work-description"></p>
                 <p class = "work-size"></p>
                 <p class = "work-gallery"></p>
-
+                <p class = "work-duration"></p>
             </div>
 
 
@@ -91,6 +117,7 @@
                 <p class = "work-description viewer-info"></p>
                 <p class = "work-size viewer-info"></p>
                 <p class = "work-gallery viewer-info"></p>
+                <p class = "work-duration viewer-info"></p>
             </div>
         </div>
              

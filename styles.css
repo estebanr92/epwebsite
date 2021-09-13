@@ -305,6 +305,10 @@ body {
     padding-bottom: 30px;
 }
 
+.bio-initial-content {
+    text-align: justify;
+}
+
 .bio-image-container {
     display: flex;
     flex-direction: column;
@@ -332,6 +336,23 @@ p.bio-award-secondary-info {
 p.bio-award-secondary-title {
     margin-bottom: 0;
     margin-top: 20px;
+}
+
+.publication-link {
+    font-size: 10px;
+    text-decoration: none;
+}
+
+.publication-link:hover {
+    text-decoration: underline;
+}
+
+.exhibition-press-link {
+    text-decoration: none;
+}
+
+.exhibition-press-link:hover {
+    text-decoration: underline;
 }
 
 
@@ -435,6 +456,7 @@ h3.bio-education-title, h3.bio-exhibition-title {
 .collections-row {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-evenly;
 }
 
@@ -444,8 +466,9 @@ h3.bio-education-title, h3.bio-exhibition-title {
 }
 
 .collection-item {
-    width: 190px;
-    height: 180px;
+    width: 28%;
+    height: calc(100vw * 0.21);
+    margin-bottom: 60px;
     position: relative;
     text-align: center;
     background-color: rgb(51,51,51);
@@ -468,10 +491,14 @@ h3.bio-education-title, h3.bio-exhibition-title {
 
 .collection-image-info-container p {
     color:black;
+    font-size: 40px;
+    font-weight: 200;
+    word-break: break-word;
+    width: 90%;
 }
 
 .collection-image-info-container:hover{
-   opacity: 0.6;
+   opacity: 0.5;
 }
 
 
@@ -482,6 +509,27 @@ h3.bio-education-title, h3.bio-exhibition-title {
 
 .hidden-collection {
     opacity: 0;
+    visibility: hidden;
+}
+
+.collection-description, .collection-video-iframe-container {
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.collection-description p {
+    text-align: justify;
+    overflow-y: scroll;
+}
+
+.hidden-element {
+    display: none;
+}
+
+.invisible-element {
     visibility: hidden;
 }
 
