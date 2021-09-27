@@ -62,7 +62,7 @@
             </div>
 
             <div class = "works-main-content">
-                <img 
+                <img loading="lazy"
                     id = "displayed-image" 
                     class = "works-displayed-image" 
                     src= "" 
@@ -106,7 +106,8 @@
 
         <div class = "displayed-image-container">
             <i onclick="toggleImageViewer()" class = "exit-viewer-button-mobile material-icons" class = "material-icons">close</i>
-            <img onmouseover="toggleImageViewerImageInfo()" id="displayed-image-big" class = "works-displayed-image big-image" src= ""/>
+            <img loading="lazy"
+               onmouseover="toggleImageViewerImageInfo()" id="displayed-image-big" class = "works-displayed-image big-image" src= ""/>
             <div class = "works-button-row mobile-section">
                 <a href = "#" class="next-image-button" onclick="changeImage(-1)">Previous</a>
                 <a href ="#" class="previous-image-button" onclick="changeImage(1)">Next</a>
