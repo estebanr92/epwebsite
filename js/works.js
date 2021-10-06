@@ -577,6 +577,7 @@ function changeImage(value) {
 function handleCollectionDescription(data) {
     const text = `<p>${data.text}</p>`
     $("#displayed-image").addClass('hidden-element');
+    $('#collection-video-iframe').attr('src', null);
     $(".collection-video-iframe-container").addClass('hidden-element');
     $(".works-information").addClass('invisible-element');
     $("#collection-description").removeClass('hidden-element');
@@ -619,6 +620,7 @@ function setImageData(slideIndex) {
     $(".works-information").removeClass('invisible-element');
     $("#displayed-image").removeClass('hidden-element');
     $("#collection-description").addClass('hidden-element');
+    $('#collection-video-iframe').attr('src', null);
     $(".collection-video-iframe-container").addClass('hidden-element');
     const newSrc = imageData.file + "?random="+ Math.random();  
     displayedImage.src= newSrc;
