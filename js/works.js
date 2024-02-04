@@ -524,6 +524,26 @@ const worksData = {
         }
         
     ],
+    coll13: [ 
+        {
+            'isSpecialContent': true,
+            'text': "<i> Precarious Resistance (or Sanctuary for Two Voles)</i>, From the series MYTHOLOGICAL SOIL. </br> The work was created " + 
+            "during a two-week residency at the Empire of Dirt Residency. The piece is a response to a series of walks through the natural landscape " + 
+            "of Creston BC. During a series of walks through nature, I collected objects like dead animal bones, branches, burnt wood, and tree trunks. " +  
+            "Then, through an intuitive process, I created a sculpture inspired by the form and materiality of each object. Additionally, I found two dead " +  
+            "voles on the floor, this encounter turned my attention to life's ephemerality and futility, especially in a natural landscape. So, working under " + 
+            "the framework of the Huaca which was a complex component of the ancient Andean religion, I decided that the sculpture would be a sanctuary for these two voles. " + 
+            "The Huaca can be many things at the same time, such as sanctuaries, idols, temples, graves, and oracles. Precarious Resistance (or Sanctuary for Two Voles) attempts " + 
+            "to see the universe as a precarious structure where all phenomena are interrelated and imbued with spirit."
+            
+        },
+        { file: '../images/EoD_009_web.jpg', name: 'Precarious Resistance (detail)', year: '2022', description: 'Site-specific Assemblage/ Sculpture', }, 
+        { file: '../images/EoD_013_web.jpg', name: 'Precarious Resistance (detail)', year: '2022', description: 'Site-specific Assemblage/ Sculpture', }, 
+        { file: '../images/EoD_005_web.jpg', name: 'Precarious Resistance', year: '2022', description: 'Site-specific Assemblage/ Sculpture', }, 
+        { file: '../images/EoD_004_web.jpg', name: 'There are no successions, only returns', year: '2022', description: 'Inky Cap Mushroom Ink (Coprinopsis atramentaria)</br> on Grey Canson Paper, Burnt wood frame</br> From the series Mythological Soil', dimensions:'17 x 25 cm' }, 
+        { file: '../images/EoD_002_web.jpg', name: 'Human-ass-humus', year: '2022', description: 'Inky Cap Mushroom Ink (Coprinopsis atramentaria) </br> on Grey Canson Paper, Burnt wood frame </br> From the series Mythological Soil', dimensions:'17 x 25 cm' }, 
+        
+    ],
 };
   
 let slideIndex = 0;
