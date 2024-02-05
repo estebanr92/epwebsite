@@ -565,6 +565,25 @@ const worksData = {
         { file: '../images/Ashnola_2.jpg', name: 'Ashnola’s Granular Ice II', year: '2021', description: 'Inkjet print', dimensions:'40 x 22 cm' }, 
         { file: '../images/Ashnola_3.jpg', name: 'Ashnola’s Granular Ice III', year: '2021', description: 'Inkjet print', dimensions:'40 x 22 cm' }, 
 
+    ],
+    coll15: [ 
+        {
+            'isSpecialContent': true,
+            'text': "Inspired by the 1927 film <i>Los Invencibles Shuaras del alto Amazonas</i> by Salesian missionary priest Carlos Crespi,<i> Estudio " + 
+            "para andamiaje y opacidad</i> responds to the film's portrayal of the Shuar people through a white gaze, aiming to elucidate their experience  " + 
+            "as the Other. Through a video & sound installation and a series of four drawings with branches installed in the ceiling, the project employs " +  
+            "transparency and cast shadows to resist the asymmetrical relationship, providing tools for opacification. This allows the Other to maintain" +  
+            " its intrinsic subjectivity and epistemic depth. "
+            
+        },
+        { file: '../images/EO001(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Video Installation' }, 
+        { file: '../images/PO7_web.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
+        { file: '../images/EO003(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
+        { file: '../images/EO004(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
+        { file: '../images/EO005(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
+        { file: '../images/EO006(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
+        { file: '../images/EO007(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
+        { file: '../images/EO008(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
 
     ],
 };
