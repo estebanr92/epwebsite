@@ -527,22 +527,45 @@ const worksData = {
     coll13: [ 
         {
             'isSpecialContent': true,
-            'text': "<i> Precarious Resistance (or Sanctuary for Two Voles)</i>, From the series MYTHOLOGICAL SOIL. </br> The work was created " + 
-            "during a two-week residency at the Empire of Dirt Residency. The piece is a response to a series of walks through the natural landscape " + 
-            "of Creston BC. During a series of walks through nature, I collected objects like dead animal bones, branches, burnt wood, and tree trunks. " +  
-            "Then, through an intuitive process, I created a sculpture inspired by the form and materiality of each object. Additionally, I found two dead " +  
-            "voles on the floor, this encounter turned my attention to life's ephemerality and futility, especially in a natural landscape. So, working under " + 
-            "the framework of the Huaca which was a complex component of the ancient Andean religion, I decided that the sculpture would be a sanctuary for these two voles. " + 
-            "The Huaca can be many things at the same time, such as sanctuaries, idols, temples, graves, and oracles. Precarious Resistance (or Sanctuary for Two Voles) attempts " + 
-            "to see the universe as a precarious structure where all phenomena are interrelated and imbued with spirit."
+            'text': "Created during a two-week residency at Empire of Dirt Residency, <i> Precarious Resistance (or Sanctuary for Two Voles)</i> is part of the MYTHOLOGICAL SOIL series. " + 
+            "It is a sculptural response to walks in Creston BC, where I collected objects like animal bones, branches, burnt wood, and tree trunks. " + 
+            "Inspired by the form and materiality of each object, I intuitively crafted the piece." +  
+            "Encountering two dead voles during these walks shifted my focus to life's transience in a natural landscape. Following the Huaca framework from ancient Andean religion," +  
+            "the sculpture serves as a sanctuary for the voles, embodying a universe seen as a precarious structure where all phenomena are interconnected and imbued with spirit."
             
         },
-        { file: '../images/EoD_009_web.jpg', name: 'Precarious Resistance (detail)', year: '2022', description: 'Site-specific Assemblage/ Sculpture', }, 
-        { file: '../images/EoD_013_web.jpg', name: 'Precarious Resistance (detail)', year: '2022', description: 'Site-specific Assemblage/ Sculpture', }, 
-        { file: '../images/EoD_005_web.jpg', name: 'Precarious Resistance', year: '2022', description: 'Site-specific Assemblage/ Sculpture', }, 
+        { file: '../images/EoD_009_web.jpg', name: 'Precarious Resistance', year: '2022', description: 'Site-specific Assemblage/ Sculpture', }, 
+        { file: '../images/EoD_013_web.jpg', name: 'Precarious Resistance', year: '2022', description: 'Site-specific Assemblage/ Sculpture', }, 
+        { file: '../images/EoD_005_web.jpg', name: 'Precarious Resistance', year: '2022', description: 'Detail', }, 
         { file: '../images/EoD_004_web.jpg', name: 'There are no successions, only returns', year: '2022', description: 'Inky Cap Mushroom Ink (Coprinopsis atramentaria)</br> on Grey Canson Paper, Burnt wood frame</br> From the series Mythological Soil', dimensions:'17 x 25 cm' }, 
         { file: '../images/EoD_002_web.jpg', name: 'Human-ass-humus', year: '2022', description: 'Inky Cap Mushroom Ink (Coprinopsis atramentaria) </br> on Grey Canson Paper, Burnt wood frame </br> From the series Mythological Soil', dimensions:'17 x 25 cm' }, 
         
+    ],
+    coll14: [ 
+        {
+            'isSpecialContent': true,
+            'text': "<i> Palimpsestuous Oscillations</i>, a year-long research project, attempts to explore overlapping sound recordings of natural landscapes, " + 
+            "informed by the metaphor of the palimpsest. It delves into the relationship between photography, sound, and drawing, embracing Indigenous auditory " + 
+            "logics related to the natural world. The first part, <i>Ashnola’s Granular Ice</i> (2021), is a sound composition based on photo scores. " +  
+            "The second part includes a natural acoustic palimpsest and a graphic score developed during a five-week residency at <i> SBC galerie d'art contemporain</i> in Montreal." +  
+            " Initially, I approached the Ashnola valley in BC through the Andean worldview and Grounded Normativity, observing the ice formations on the Ashnola River's shore. " + 
+            "I interpreted the ice layers as a natural sound score of frozen frequencies, capturing images and recording ice sounds for a composition using a granular synthesizer. " + 
+            "The dissolution of sound into grains aims to access different temporalities of the river, aligning with Andean epistemologies that perceive the landscape " + 
+            "as sonically animated and conceive their ceremonial music as an extension of the Land."
+            
+        },
+        { file: '../images/PO4_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Exhibition View' }, 
+        { file: '../images/PO7_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Exhibition Detail', }, 
+        { file: '../images/PO13_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Exhibition Detail'}, 
+        { file: '../images/PO10_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Detail'}, 
+        { file: '../images/PO14_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Exhibition Detail' }, 
+        { file: '../images/PO17_web.jpg', name: 'ASHGRAN XX3', year: '2022', description: 'Silkscreen on Vellum paper', dimensions:'61 x 45,5 cm' }, 
+        { file: '../images/PO18_web.jpg', name: 'ASHGRAN XX3', year: '2022', description: 'Detail' }, 
+        { file: '../images/Ashnola_1.jpg', name: 'Ashnola’s Granular Ice I', year: '2021', description: 'Inkjet print', dimensions:'40 x 22 cm' },
+        { file: '../images/Ashnola_2.jpg', name: 'Ashnola’s Granular Ice II', year: '2021', description: 'Inkjet print', dimensions:'40 x 22 cm' }, 
+        { file: '../images/Ashnola_3.jpg', name: 'Ashnola’s Granular Ice III', year: '2021', description: 'Inkjet print', dimensions:'40 x 22 cm' }, 
+
+
     ],
 };
   
