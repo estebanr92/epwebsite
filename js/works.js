@@ -2,12 +2,12 @@ const worksData = {
     coll1: [ 
         {
             'isSpecialContent': true,
-            'text': '<i>Liquid Land</i> is a video & sound installation informed by Indigenous ways of knowing from Ecuador and by ideas that Squamish artist, Aaron Nelson-Moody aka Splash shared with ' + 
-            'me during our collaboration on the Earth Project. The work attempts to stop seeing nature and the forest through an extractive gaze, where nature is only a commodity and an object ' + 
-            'that needs to be exploited for capitalist profit, and instead tries to understand the complex living ecosystem of the forest where more-than-human entities, human bodies, and spirits from the past meet. <br><br>' +
-            '<i>Liquid Land</i> presents a 15:03 minutes video of a brick sculpture made from a mix of unceded territory —land from outside the school— and First Nations Land — collected with Splash. The idea behind ' + 
-            'placing the sculpture back in the forest was to let the biological and natural processes like rain, snow, and wind, dissolve the ideological divisions embedded in the land narrative. ' + 
-            'The video presents a slow process of decomposition that forces the viewer to experience a different sense of time, a more-than-human time.',
+            'text': '<i>Liquid Land</i> is a video & sound installation informed by Indigenous ways of knowing from Ecuador and insights shared by Squamish artist Aaron Nelson-Moody, also known as Splash, ' + 
+            ' during our collaboration on the Earth Project. The work attempts to shift away from an extractive perspective of nature and forests, where they are seen merely as commodities for capitalist profit.' + 
+            ' Instead, it seeks to understand the complex living ecosystem of the forest where more-than-human entities, human bodies, and spirits from the past meet. <br><br>' +
+            'The installation features a 15:03-minute video showcasing a brick sculpture crafted from a blend of unceded territory and First Nations Land, collected alongside Splash.' + 
+            ' Placing the sculpture back in the forest allows natural processes like rain, snow, and wind to dissolve the ideological divisions embedded in the land narrative. ' + 
+            'The video presents a slow process of decomposition of the sculpture, prompting viewers to engage with a different perception of time—a more-than-human time.',
         },
         { file: '../images/Liquid_Land_I_1.jpg', name: 'Liquid Land', year: '2021', description: 'Video & Sound Installation', duration: '15:03 min' }, 
         { file: '../images/Liquid_Land_I_3_Michael_Love.jpg', name: 'Liquid Land', description: 'Photo credit: Michael Love' }, 
@@ -25,11 +25,11 @@ const worksData = {
     coll2: [
         {
             'isSpecialContent': true,
-            'text': '<i>Liquid Beings</i> is a sound and drawing installation that is informed by Indigenous ways of Knowing from Canada’s Pacific Northwest coast . ' + 
-            'The series of five drawings were made with cedar pigment, a gift from Indigenous Squamish artist Aaron Nelson-Moody aka “Splash”. I stretched and ' + 
-            'amplified a field recording of the Earth. While listening to these sounds, I created a series of drawings. The sound was playing from a hanging speaker and ' + 
-            'filled the space where the drawings were being displayed. The idea was to listen to other frequencies and vibrancies of the Earth. The work attempts to access other ' + 
-            'layers of reality and materiality, beyond a western human-centered ideology. This work was presented at the Polygon Gallery as part of Response: Our Land Narrative.',
+            'text': '<i>Liquid Beings</i> is a sound and drawing installation informed by Indigenous ways of Knowing from Canada’s Pacific Northwest coast . ' + 
+            'The five drawings, created with cedar pigment gifted by Indigenous Squamish artist Aaron Nelson-Moody (Splash), are accompanied by an amplified field recording of the Earth.' + 
+            ' As the recording played from a hanging speaker, it filled the space where the drawings were exhibited. The intention was to explore different frequencies ' + 
+            'and vibrations of the Earth, seeking to access layers of reality and materiality beyond a Western human-centered ideology. This installation was featured at the ' + 
+            'Polygon Gallery as part of Response: Our Land Narrative.',
         },
         { file: '../images/OUR_LAND_NARRATIVE_1_1.jpg', name: 'Liquid Beings', year: '2021', description: 'Red cedar pigment on paper, stretched and amplified field recording of Earth', description: 'Photo credit: Rachel Topham Photography' }, 
         { file: '../images/Liquid_Being_1.jpg', name: 'Liquid Being #1', year: '2021', description: 'Red cedar pigment on paper', dimensions: '32 x 23,5cm' }, 
@@ -48,7 +48,7 @@ const worksData = {
     coll3: [
         {
             'isSpecialContent': true,
-            'text': '<i>Bifurcación Sonora</i> is inspired by Tlön, Uqbar, Orbis Tertius (1962), a short story by Argentinian author Jorge Luis Borges. The work uses the ideologies embedded in Earth’s materiality in order to question the narratives that build and shape our ' + 
+            'text': '<i>Bifurcación Sonora</i> is inspired by Tlön, Uqbar, Orbis Tertius (1962), a short story by Argentinian author Jorge Luis Borges. The work uses the ideologies embedded in Earth’s materiality in order to question the narratives that build and influence our ' + 
             'reality. For instance, the bricks for this construction were made of a mix of Unceded Territory, First Nations Land, and water. The room was filled with the amplified sound of the Earth, recorded from the forest where the First Nations Earth was collected.',
         },
         { file: '../images/Bifurcacion_Sonora_1.jpg', name: 'Bifurcación Sonora', year: '2020', description: 'Installation/Sound'},  
@@ -101,14 +101,13 @@ const worksData = {
     coll5: [ 
         {
             'isSpecialContent': true,
-            'text': '<i>The Memory of Water</i> proposes to combine an exploration of field sound recording technology with indigenous ecological ways of knowing, ' + 
-            'in order to open a conversation between humans and the more-than-human. The larger project seeks to activate sound in understanding the relevance of ' + 
-            'mountains, rivers, oceans, rocks, and animal spirits, alongside which the human is just another actant into an interlinked complex world (Kohn, 2013). ' + 
-            'The recording of these soundscapes attempts to challenge the nature/culture binary by listening to more-than-human and human networks of sounds.<br><br>' + 
+            'text': '<i>The Memory of Water</i> aims to blend field sound recording technology with indigenous ecological knowledge to initiate a dialogue between ' + 
+            'humans and the more-than-human. The broader project explores the significance of natural elements and animal spirits, emphasizing the interconnectedness ' + 
+            'of all entities in a complex world (Kohn, 2013). By recording these soundscapes, the work attempts to challenge the nature/culture binary, focusing on both ' + 
+            'human and more-than-human networks of sounds.<br><br>' + 
             'The work attempts to understand how water represents the world and experiences time.' +
-            'Underwater frequencies were recorded with the help of a hydrophone, which helps to represent the entangled ' + 
-            'relationship between human and nonhuman activity. The sound component challenges the normative western gaze that imposes an illusion of a nature-culture binary. ' + 
-            'The duration of the large video and audio piece creates a mesmerizing atmosphere for an embodied immersive experience.',
+            ' Utilizing a hydrophone, underwater frequencies are recorded to depict the entangled relationship between human and nonhuman activity. ' + 
+            'The video and audio installation explore more-than-human temporalities to create a mesmerizing atmosphere for an embodied immersive experience.',
         },
         { file: '../images/Memoy_Water_1.jpg', name: 'The Memory of Water', year: '2020', description: 'Video & sound installation', duration: '7:43 min' }, 
         { file: '../images/Memoy_Water_2.jpg', name: '' }, 
@@ -121,16 +120,12 @@ const worksData = {
     coll6: [
         {
             'isSpecialContent': true,
-            'text': '<i>Homage to Failure</i> is a performance documented through photography, which later took the form of a video. I walked and collected ' + 
-            'objects from the street and put them inside a cardboard box. I collected various objects like an old piece of metal, cans, a tree trunk, a broken ' + 
-            'trolley, etc. Eventually, during the performance, the carboard box broke. I just kept dragging the objects with a rope event though the rope broke ' + 
-            'several times. Finally, I manage to transport all the found objects into the gallery space. ' +
-            'This is where the second part begins. I assembled the objects in a precarious and provisional ' + 
-            'way in the gallery. There was no previous idea just improvisation and the motivation to finish a task.' + 
-            'I used duct-taped to combine the objects together and I screw the wooden elements together. ' + 
-            'I used a yellow rope to hang the sculpture from three different points on the walls which added a layer of ' + 
-            'tension to the work. The video of the performance was projected onto the broken box, which was stapled to the wall. ' +
-            'Because of the precariousness of the structure, the piece appeared as it might collapse at any moment.',
+            'text': '<i>Homage to Failure</i> is a performance initially documented through photography and later presented as a video. I collected various objects ' + 
+            'from the street, including old metal, cans, a tree trunk, and a broken trolley, placing them inside a cardboard box. As the performance progressed,' + 
+            'the box broke, yet I persisted in dragging the objects with a rope until they were transported to the gallery space. There, I improvised and assembled  ' + 
+            'the objects using duct tape and screws, hanging the resulting sculpture from three points on the walls with a yellow rope.' +
+            ' The video of the performance was projected onto the broken box. Because of the precariousness of the structure, the piece appeared as if it might  ' + 
+            'collapse at any moment. The work explores themes of resilience, impermanence, and the creative process.',
         },
         { file: '../images/Homage_Failure_3.jpg', name: 'Homage to Failure', year: '2020', description: 'Performance' }, 
         { file: '../images/Homage_Failure_1.jpg', name: '' }, 
@@ -569,10 +564,10 @@ const worksData = {
     coll15: [ 
         {
             'isSpecialContent': true,
-            'text': "Inspired by the 1927 film <i>Los Invencibles Shuaras del alto Amazonas</i> by Salesian missionary priest Carlos Crespi,<i> Estudio " + 
-            "para Andamiaje y Opacidad</i> responds to the film's portrayal of the Shuar people through a white gaze, aiming to elucidate their experience  " + 
-            "as the Other. Through a video & sound installation and a series of four drawings with branches installed in the ceiling, the project employs " +  
-            "transparency and cast shadows to resist the asymmetrical relationship, providing tools for opacification. This allows the Other to maintain" +  
+            'text': "Inspired by the 1927 ethnographic film <i>Los Invencibles Shuaras del alto Amazonas</i> by Salesian missionary priest Carlos Crespi,<i> Estudio " + 
+            "para Andamiaje y Opacidad</i> responds to the film's portrayal of the Shuar people through a white gaze, seeking to make transparent their experience  " + 
+            "as the Other. Through a video & sound installation and a series of four drawings with branches installed in the ceiling, the project explores  " +  
+            "strategies for resisting this asymmetrical relationship utilizing mark-making, transparency and cast shadows as a tools for opacification, allowing the Other to maintain" +  
             " its intrinsic subjectivity and epistemic depth. "
             
         },
