@@ -614,11 +614,11 @@ const worksData = {
         { file: '../images/IMA_06.jpg', name: 'IMAGO', year: '2024', description: 'Detail', dimensions:'15 x 20 cm' }, 
         { file: '../images/IMA_07.jpg', name: 'IMAGO', year: '2024', description: 'Exhibition View' }, 
         { file: '../images/IMA_08.jpg', name: 'IMAGO', year: '2024', description: 'Installation View'},
-        { file: '../images/IMA_04.jpg', name: 'IMAGO', year: '2024', description: 'Drawing & Installation'}, 
-        { file: '../images/IMA_05.jpg', name: 'IMAGO', year: '2024', description: 'Detail' }, 
-        { file: '../images/IMA_06.jpg', name: 'IMAGO', year: '2024', description: 'Detail', dimensions:'15 x 20 cm' }, 
-        { file: '../images/IMA_07.jpg', name: 'IMAGO', year: '2024', description: 'Exhibition View' }, 
-        { file: '../images/IMA_08.jpg', name: 'IMAGO', year: '2024', description: 'Installation View'},
+        { file: '../images/IMA_SAR_01.jpg', name: 'IMAGO', year: '2024', description: 'Drawing & Installation'}, 
+        { file: '../images/IMA_SAR_02.jpg', name: 'IMAGO', year: '2024', description: 'Detail' }, 
+        { file: '../images/IMA_SAR_03.jpg', name: 'IMAGO', year: '2024', description: 'Detail', dimensions:'15 x 20 cm' }, 
+        { file: '../images/IMA_SAR_04.jpg', name: 'IMAGO', year: '2024', description: 'Exhibition View' }, 
+        { file: '../images/IMA_SAR_05.jpg', name: 'IMAGO', year: '2024', description: 'Installation View'},
 
     ],
     coll18: [ 
