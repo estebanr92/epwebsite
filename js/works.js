@@ -631,7 +631,7 @@ const worksData = {
             " its intrinsic subjectivity and epistemic depth. "
             
         },
-        { file: '../images/EO001(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Video Installation' }, 
+        { file: '../images/UMO_01.jpg', name: 'Opacification strategies', year: '2024', description: 'Video Installation' }, 
         { file: '../images/EO002.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
         { file: '../images/EO003(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
         { file: '../images/EO004(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
