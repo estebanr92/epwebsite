@@ -632,13 +632,12 @@ const worksData = {
             
         },
         { file: '../images/UMO_01.jpg', name: 'Opacification strategies', year: '2024', description: 'Video Installation' }, 
-        { file: '../images/EO002.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
-        { file: '../images/EO003(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
-        { file: '../images/EO004(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
-        { file: '../images/EO005(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
-        { file: '../images/EO006(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
-        { file: '../images/EO007(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
-        { file: '../images/EO008(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
+        { file: '../images/UMO_02.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
+        { file: '../images/UMO_03.jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
+        { file: '../images/UMO_04.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
+        { file: '../images/UMO_05.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
+        { file: '../images/UMO_06.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
+        { file: '../images/UMO_07.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
 
     ],
 };
