@@ -581,6 +581,66 @@ const worksData = {
         { file: '../images/EO008(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
 
     ],
+    coll16: [ 
+        {
+            'isSpecialContent': true,
+            'text': "Inspired by the 1927 ethnographic film <i>Los Invencibles Shuaras del alto Amazonas</i> by Salesian missionary priest Carlos Crespi,<i> Estudio " + 
+            "para Andamiaje y Opacidad</i> responds to the film's portrayal of the Shuar people through a white gaze, seeking to make transparent their experience  " + 
+            "as the Other. Through a video & sound installation and a series of four drawings with branches installed in the ceiling, the project explores  " +  
+            "strategies for resisting this asymmetrical relationship utilizing mark-making, transparency and cast shadows as a tools for opacification, allowing the Other to maintain" +  
+            " its intrinsic subjectivity and epistemic depth. "
+            
+        },
+        { file: '../images/EO001(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Video Installation' }, 
+        { file: '../images/EO002.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
+        { file: '../images/EO003(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
+        { file: '../images/EO004(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
+        { file: '../images/EO005(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
+        { file: '../images/EO006(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
+        { file: '../images/EO007(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
+        { file: '../images/EO008(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
+
+    ],
+    coll17: [ 
+        {
+            'isSpecialContent': true,
+            'text': "Inspired by the 1927 ethnographic film <i>Los Invencibles Shuaras del alto Amazonas</i> by Salesian missionary priest Carlos Crespi,<i> Estudio " + 
+            "para Andamiaje y Opacidad</i> responds to the film's portrayal of the Shuar people through a white gaze, seeking to make transparent their experience  " + 
+            "as the Other. Through a video & sound installation and a series of four drawings with branches installed in the ceiling, the project explores  " +  
+            "strategies for resisting this asymmetrical relationship utilizing mark-making, transparency and cast shadows as a tools for opacification, allowing the Other to maintain" +  
+            " its intrinsic subjectivity and epistemic depth. "
+            
+        },
+        { file: '../images/EO001(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Video Installation' }, 
+        { file: '../images/EO002.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
+        { file: '../images/EO003(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
+        { file: '../images/EO004(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
+        { file: '../images/EO005(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
+        { file: '../images/EO006(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
+        { file: '../images/EO007(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
+        { file: '../images/EO008(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
+
+    ],
+    coll18: [ 
+        {
+            'isSpecialContent': true,
+            'text': "Inspired by the 1927 ethnographic film <i>Los Invencibles Shuaras del alto Amazonas</i> by Salesian missionary priest Carlos Crespi,<i> Estudio " + 
+            "para Andamiaje y Opacidad</i> responds to the film's portrayal of the Shuar people through a white gaze, seeking to make transparent their experience  " + 
+            "as the Other. Through a video & sound installation and a series of four drawings with branches installed in the ceiling, the project explores  " +  
+            "strategies for resisting this asymmetrical relationship utilizing mark-making, transparency and cast shadows as a tools for opacification, allowing the Other to maintain" +  
+            " its intrinsic subjectivity and epistemic depth. "
+            
+        },
+        { file: '../images/EO001(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Video Installation' }, 
+        { file: '../images/EO002.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
+        { file: '../images/EO003(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
+        { file: '../images/EO004(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
+        { file: '../images/EO005(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
+        { file: '../images/EO006(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
+        { file: '../images/EO007(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
+        { file: '../images/EO008(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
+
+    ],
 };
   
 let slideIndex = 0;
