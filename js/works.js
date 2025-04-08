@@ -584,11 +584,9 @@ const worksData = {
     coll16: [ 
         {
             'isSpecialContent': true,
-            'text': "Inspired by the 1927 ethnographic film <i>Los Invencibles Shuaras del alto Amazonas</i> by Salesian missionary priest Carlos Crespi,<i> Estudio " + 
-            "para Andamiaje y Opacidad</i> responds to the film's portrayal of the Shuar people through a white gaze, seeking to make transparent their experience  " + 
-            "as the Other. Through a video & sound installation and a series of four drawings with branches installed in the ceiling, the project explores  " +  
-            "strategies for resisting this asymmetrical relationship utilizing mark-making, transparency and cast shadows as a tools for opacification, allowing the Other to maintain" +  
-            " its intrinsic subjectivity and epistemic depth. "
+            'text': "Following the orbit of a symbiotic organic-synthetic being, the work examines non-human agency and speculates on potential interplanetary futures for overlooked everyday objects. " + 
+            "The work is inspired by <i>Plastiglomerate</i> —a material formed by the amalgamation of plastic, rock, and coastal debris through natural processes. " + 
+            "The installation reflects on how the intertwining of organic and synthetic matter, already integrated into our reality and ecosystems, will continue to drift and occupy space in the future, beyond human narratives. "
             
         },
         { file: '../images/ESP_01.jpg', name: 'Wrapped Gravity (Espora)', year: '2024', description: 'Burnt tarp, tree trunk, red light & TV screen' }, 
