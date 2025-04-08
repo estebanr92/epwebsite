@@ -54,6 +54,7 @@ const worksData = {
         { file: '../images/Bifurcacion_Sonora_1.jpg', name: 'Bifurcación Sonora', year: '2020', description: 'Michael O Brien Exhibition Commons', dimensions: 'Vancouver, Canada'},  
         { file: '../images/Bifurcacion_Sonora_2.jpg', name: 'Detail', description: 'Michael O Brien Exhibition Commons', dimensions: 'Vancouver, Canada'},
         { file: '../images/Bifurcacion_Sonora_3.jpg', name: 'Installation View', description: 'Michael O Brien Exhibition Commons', dimensions: 'Vancouver, Canada' },
+        { file: '../images/BS_2.jpg', name: 'Installation View', description: 'Michael O Brien Exhibition Commons', dimensions: 'Vancouver, Canada' },
         {
             isSpecialContent: true,
             audioURL: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/902458684&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
