@@ -622,12 +622,18 @@ const worksData = {
     coll18: [ 
         {
             'isSpecialContent': true,
-            'text': "Inspired by the 1927 ethnographic film <i>Los Invencibles Shuaras del alto Amazonas</i> by Salesian missionary priest Carlos Crespi,<i> Estudio " + 
-            "para Andamiaje y Opacidad</i> responds to the film's portrayal of the Shuar people through a white gaze, seeking to make transparent their experience  " + 
-            "as the Other. Through a video & sound installation and a series of four drawings with branches installed in the ceiling, the project explores  " +  
-            "strategies for resisting this asymmetrical relationship utilizing mark-making, transparency and cast shadows as a tools for opacification, allowing the Other to maintain" +  
-            " its intrinsic subjectivity and epistemic depth. "
-            
+            'text': "<i>Umoinflorescencia,</i> was created during the Ruina Residency in the summer of 2024, in the village of San Martín Tilcajete, Oaxaca. " + 
+            "The work consists of five alebrijes made from copal resin, created in collaboration with the Taller Jacobo & María Ángeles. " + 
+            "These alebrijes were burned during the exhibition’s opening and closing events, filling the SÓLIDA gallery with the scent of copal smoke. " +  
+            "Inspired by the copal tree and its resin, the piece explores concepts of identity, ancestry, and the relationship between humans, nature, culture, and economy." +  
+            "<br><br> Copal is a Nahuatl word meaning resin or incense. For over 3,500 years, in the valleys of Oaxaca, the smoke of copal has been used in religious rituals as a means of communication between the spirit world and the living. "+
+            "Its smoke and aroma serve as a spiritual portal, granting access to sacred spaces and aiding in bidding farewell to the dead."+
+            "<br><br> In recent years, the Taller Jacobo & María Ángeles, renowned for its finely carved wooden alebrijes made from copal wood, has started reproducing these pieces in epoxy resin using silicone and fiberglass molds.  "+
+            "This shift addresses the environmental, economic, and social impacts of copal wood extraction in the village, driven by the growing demand for alebrijes among tourists from the United States and Europe. "+
+            "<br><br>Based on the concepts of transmutation and inflorescence, I used these molds to craft figures from copal resin extracted from the copal tree. "+
+            "Transmutation refers to transforming one substance into another—physically, chemically, spiritually, or symbolically. "+
+            "Inflorescence, in contrast, describes plants and trees' blooming or flowering process. The title, therefore, can be understood as <i>'the blooming of smoke.'</i> " +
+            "In this process, copal resin is transformed into an alebrije representing a nahual or tona, only to transmute once more into the smoke that opens portals of communication between worlds."
         },
         { file: '../images/UMO_01.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Alebrijes made of copal resin,', dimensions:'ceramics, charcoal, and copal smoke' }, 
         { file: '../images/UMO_02.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Armadillo', }, 
