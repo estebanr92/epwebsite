@@ -31,7 +31,7 @@ const worksData = {
             'and vibrations of the Earth, seeking to access layers of reality and materiality beyond a Western human-centered ideology. This installation was featured at the ' + 
             'Polygon Gallery as part of Response: Our Land Narrative.',
         },
-        { file: '../images/OUR_LAND_NARRATIVE_1_1.jpg', name: 'Liquid Beings', year: '2021', description: 'Red cedar pigment on paper, stretched and amplified field recording of Earth', description: 'Photo credit: Rachel Topham Photography' }, 
+        { file: '../images/OUR_LAND_NARRATIVE_1_1.jpg', name: 'Liquid Beings', year: '2021', description: 'The Polygon Gallery', dimensions: 'Vancouver, Canada'  }, 
         { file: '../images/Liquid_Being_1.jpg', name: 'Liquid Being #1', year: '2021', description: 'Red cedar pigment on paper', dimensions: '32 x 23,5cm' }, 
         { file: '../images/Liquid_Being_2.jpg', name: 'Liquid Being #2', year: '2021', description: 'Red cedar pigment on paper', dimensions: '32 x 23,5cm' }, 
         { file: '../images/Liquid_Being_3.jpg', name: 'Liquid Being #3', year: '2021', description: 'Red cedar pigment on paper', dimensions: '32 x 23,5cm' }, 
