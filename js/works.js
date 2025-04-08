@@ -597,11 +597,12 @@ const worksData = {
     coll17: [ 
         {
             'isSpecialContent': true,
-            'text': "Inspired by the 1927 ethnographic film <i>Los Invencibles Shuaras del alto Amazonas</i> by Salesian missionary priest Carlos Crespi,<i> Estudio " + 
-            "para Andamiaje y Opacidad</i> responds to the film's portrayal of the Shuar people through a white gaze, seeking to make transparent their experience  " + 
-            "as the Other. Through a video & sound installation and a series of four drawings with branches installed in the ceiling, the project explores  " +  
+            'text': "<i>IMAGO</i> is an installation inspired by the concept of <i>Ch’ixi</i> from the Bolivian thinker Silvia Rivera Cusicanqui. " + 
+            "Ch’ixi is the interweaving of opposites, the mixture and coexistence of diverse, non-fused characteristics that produce an identity composed of contradictory fragments. " + 
+            "<br></br>By assembling diverse materialities that explore the relation between natural, animal, organic, synthetic, industrial, and technological, the work examines the narrative associations and tensions evoked by these material juxtapositions. " +  
             "strategies for resisting this asymmetrical relationship utilizing mark-making, transparency and cast shadows as a tools for opacification, allowing the Other to maintain" +  
-            " its intrinsic subjectivity and epistemic depth. "
+            " its intrinsic subjectivity and epistemic depth. " +
+            "<br></br>Imago is a hybrid being that seeks to weave together divergent temporal and spatial dimensions, including mythic narratives and syncretic futurities."
             
         },
         { file: '../images/IMA_01.jpg', name: 'IMAGO', year: '2024', description: 'Earth, silicone, burnt branch,', dimensions:'bone meal & epoxy resin, metal profile & TV screen'}, 
