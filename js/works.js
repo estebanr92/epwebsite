@@ -631,13 +631,13 @@ const worksData = {
             " its intrinsic subjectivity and epistemic depth. "
             
         },
-        { file: '../images/UMO_01.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Video Installation' }, 
-        { file: '../images/UMO_02.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Installation View', }, 
-        { file: '../images/UMO_03.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Detail'}, 
-        { file: '../images/UMO_04.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Drawing & Installation'}, 
-        { file: '../images/UMO_05.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Detail' }, 
-        { file: '../images/UMO_06.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Detail', dimensions:'15 x 20 cm' }, 
-        { file: '../images/UMO_07.jpg', name: 'Umoinflorescencia', year: 'Sólida Galería, Oaxaca, Mexico', description: 'Exhibition View' }, 
+        { file: '../images/UMO_01.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Alebrijes made of copal resin, ceramics, charcoal, and copal smoke' }, 
+        { file: '../images/UMO_02.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Armadillo', }, 
+        { file: '../images/UMO_03.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Smoking snake'}, 
+        { file: '../images/UMO_04.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Exhibition View'}, 
+        { file: '../images/UMO_05.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Monkey' }, 
+        { file: '../images/UMO_06.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Exhibition View', }, 
+        { file: '../images/UMO_07.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Sólida Galería', dimensions:'Oaxaca, Mexico' }, 
 
     ],
 };
