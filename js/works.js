@@ -378,8 +378,8 @@ const worksData = {
             file: '../images/Triplete-2.jpg',
             name: 'Found Objects',
             year: '2018',
-            description: '',
-            gallery: 'No lugar'
+            description: 'No lugar',
+            gallery: 'Quito, Ecuador'
         }, 
         {
             file: '../images/X5_1.jpg',
@@ -414,15 +414,15 @@ const worksData = {
             name: 'Found Objects',
             year: '2018',
             gallery: 'No lugar',
-            description: '',
+            description: 'Quito, Ecuador',
   
         },
          {
             file: '../images/Triplete-15.jpg',
            name: 'Found Objects',
            year: '2018',
-           description: '',
-           gallery: 'No lugar'
+           description: 'No lugar',
+           gallery: 'Quito, Ecuador'
         },
         {
             file: '../images/Triplete-16.jpg',
@@ -443,7 +443,7 @@ const worksData = {
            name: 'Found Objects',
            year: '2018',
            gallery: 'No lugar',
-           description: ''
+           description: 'Quito, Ecuador'
         },
          {
             file: '../images/Triplete-21.jpg',
@@ -478,7 +478,7 @@ const worksData = {
             name: 'Found Objects',
             year: '2018',
             gallery: 'No lugar',
-            description: '',
+            description: 'Quito, Ecuador',
         },
         {
             file: '../images/Triplete-28.jpg',
