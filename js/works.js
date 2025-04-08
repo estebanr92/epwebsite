@@ -10,10 +10,10 @@ const worksData = {
             'The video presents a slow process of decomposition of the sculpture, prompting viewers to engage with a different perception of time—a more-than-human time.',
         },
         { file: '../images/Liquid_Land_I_1.jpg', name: 'Liquid Land', year: '2021', description: 'Video & Sound Installation', duration: '15:03 min' }, 
-        { file: '../images/Liquid_Land_I_3_Michael_Love.jpg', name: 'Liquid Land', description: 'Photo credit: Michael Love' }, 
-        { file: '../images/Liquid_Land_I_4_Michael_Love.jpg', name: 'Liquid Land', description: 'Photo credit: Michael Love' }, 
-        { file: '../images/Liquid_Land_II_3_MFA_Grad_Show.jpg', name: 'Liquid Land, Iteration II', year: '2021', description: 'MFA grad show' }, 
-        { file: '../images/Liquid_Land_II_2.jpg', name: 'Liquid Land, Iteration II', year: '2021', description: 'MFA grad show' }, 
+        { file: '../images/Liquid_Land_I_3_Michael_Love.jpg', name: 'Liquid Land', year: 'Photo credit: Michael Love', description: 'RBC Media Gallery', dimensions:'Vancouver, Canada' }, 
+        { file: '../images/Liquid_Land_I_4_Michael_Love.jpg', name: 'Liquid Land', year: 'Photo credit: Michael Love', description: 'RBC Media Gallery', dimensions:'Vancouver, Canada'  }, 
+        { file: '../images/Liquid_Land_II_3_MFA_Grad_Show.jpg', name: 'Liquid Land, Iteration II', year: '2021', description: 'Libby Leshgold Gallery', dimensions:'Vancouver, Canada' }, 
+        { file: '../images/Liquid_Land_II_2.jpg', name: 'Liquid Land, Iteration II', year: '2021', description: 'Libby Leshgold Gallery', dimensions:'Vancouver, Canada'  }, 
         { file: '../images/Liquid_Land_Still__1.jpg', name: 'Still from Video' }, 
         { file: '../images/Liquid_Land_Still__3.jpg', name: 'Still from Video' }, 
         { file: '../images/Liquid_Land_Still_2.jpg', name: 'Still from Video' },
@@ -591,9 +591,9 @@ const worksData = {
             "The installation reflects on how the intertwining of organic and synthetic matter, already integrated into our reality and ecosystems, will continue to drift and occupy space in the future, beyond human narratives. "
             
         },
-        { file: '../images/ESP_01.jpg', name: 'Wrapped Gravity (Espora)', year: '2024', description: 'Burnt tarp, tree trunk, red light & TV screen' }, 
-        { file: '../images/ESP_02.jpg', name: 'Wrapped Gravity (Espora)', year: '2024', description: 'Installation View', }, 
-        { file: '../images/ESP_03.jpg', name: 'Wrapped Gravity (Espora)', year: '2024', description: 'Installation View', }, 
+        { file: '../images/ESP_01.jpg', name: 'Wrapped Gravity (Espora)', year: '2024', description: 'Burnt tarp, tree trunk, red light & TV screen', dimensions:'SOMA Mexico' }, 
+        { file: '../images/ESP_02.jpg', name: 'Wrapped Gravity (Espora)', year: '2024', description: 'Installation View', dimensions:'SOMA Mexico' }, 
+        { file: '../images/ESP_03.jpg', name: 'Wrapped Gravity (Espora)', year: '2024', description: 'Installation View', dimensions:'SOMA Mexico'}, 
 
     ],
     coll17: [ 
@@ -607,13 +607,13 @@ const worksData = {
             "<br></br>Imago is a hybrid being that seeks to weave together divergent temporal and spatial dimensions, including mythic narratives and syncretic futurities."
             
         },
-        { file: '../images/IMA_01.jpg', name: 'IMAGO', year: '2024', description: 'Earth, silicone, burnt branch,', dimensions:'bone meal & epoxy resin, metal profile & TV screen'}, 
-        { file: '../images/IMA_02.jpg', name: 'IMAGO', year: '2024', description: 'Detail', }, 
-        { file: '../images/IMA_03.jpg', name: 'IMAGO', year: '2024', description: '"Chicharron Cartilage" made of bone meal'}, 
-        { file: '../images/IMA_04.jpg', name: 'IMAGO', year: '2024', description: 'Detail'}, 
-        { file: '../images/IMA_05.jpg', name: 'IMAGO', year: '2024', description: 'Detail' }, 
-        { file: '../images/IMA_06.jpg', name: 'IMAGO', year: '2024', description: 'Detail'}, 
-        { file: '../images/IMA_07.jpg', name: 'IMAGO', year: '2024', description: 'Huitlacoche made of Silicon' }, 
+        { file: '../images/IMA_01.jpg', name: 'IMAGO', year: '2024', description: 'Earth, silicone, burnt branch, bone meal & epoxy resin, metal profile & TV screen', dimensions:'SOMA Mexico'}, 
+        { file: '../images/IMA_02.jpg', name: 'IMAGO', year: '2024', description: 'Detail', dimensions:'SOMA Mexico' }, 
+        { file: '../images/IMA_03.jpg', name: 'IMAGO', year: '2024', description: '"Chicharron Cartilage" made of bone meal', dimensions:'SOMA Mexico'}, 
+        { file: '../images/IMA_04.jpg', name: 'IMAGO', year: '2024', description: 'Detail', dimensions:'SOMA Mexico'}, 
+        { file: '../images/IMA_05.jpg', name: 'IMAGO', year: '2024', description: 'Detail', dimensions:'SOMA Mexico' }, 
+        { file: '../images/IMA_06.jpg', name: 'IMAGO', year: '2024', description: 'Detail', dimensions:'SOMA Mexico'}, 
+        { file: '../images/IMA_07.jpg', name: 'IMAGO', year: '2024', description: 'Huitlacoche made of Silicon', dimensions:'SOMA Mexico' }, 
         { file: '../images/IMA_08.jpg', name: 'IMAGO', year: '2024', description: 'Installation View', dimensions:'SOMA Mexico'},
         { file: '../images/IMA_SAR_01.jpg', name: 'Sarmen Almond', year: 'Vocal performance', description: 'IMAGO Activation', dimensions:'SOMA Mexico'}, 
         { file: '../images/IMA_SAR_02.jpg', name: 'Sarmen Almond', year: 'Vocal performance', description: 'IMAGO Activation', dimensions:'SOMA Mexico'}, 
