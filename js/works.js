@@ -61,7 +61,7 @@ const worksData = {
             '<a href="https://soundcloud.com/esteban-perez-670580920" title="Esteban Pérez" target="_blank" style="color: #cccccc; text-decoration: none;">Esteban Pérez</a> · <a href="https://soundcloud.com/esteban-perez-670580920/audio-tierra-amplificacion-3" title="Audio Tierra Amplificacion 3"' + 
             'target="_blank" style="color: #cccccc; text-decoration: none;">Audio Tierra Amplificacion 3</a></div>'
         },
-        { file: '../images/El_Instante_Still.jpg', name: 'El Instante', year: '2020', description: 'Stop Motion Animation'}, 
+        { file: '../images/El_Instante_Still.jpg', name: 'El Instante', year: '2020', description: 'Stop Motion Animation', duration: '1:19 min'}, 
         { file: '../images/El_Instante_Still_2.jpg', name: 'El Instante', year: '2020', description: 'Stop Motion Animation', duration: '1:19 min'},
         {
             isSpecialContent: true,
@@ -90,9 +90,9 @@ const worksData = {
         { file: '../images/Earth_Project_3.jpg' }, 
         { file: '../images/Earth_Project_Video_Still_3.jpg', name: 'Digging a Hole in the Earth', year: '2019', description: 'Video', duration: '3:46 min' }, 
         { file: '../images/Earth_Project_2.jpg' }, 
-        { file: '../images/Earth_Synthetizer_2_grunt.jpg', name: 'Artist Talk at grunt gallery', year: '2020', description: 'Talk & discussion on different ideas about earth and land' }, 
+        { file: '../images/Earth_Synthetizer_2_grunt.jpg', name: 'Artist Talk', year: '2020', description: 'grunt gallery',duration: 'Vancouver, Canada'  }, 
         { file: '../images/Earth_Synthetizer_2.jpg', name: 'Earth Synthesizer', year: '2019', description: 'Sound Object/Installation' }, 
-        { file: '../images/Earth_Synthetizer_3_UBC.jpg', name: 'Earth Synthesizer', year: '2021', description: 'Part of the <i> Radical Reworlding </i> Exhibition at AHVA Gallery at UBC' },
+        { file: '../images/Earth_Synthetizer_3_UBC.jpg', name: 'Earth Synthesizer', year: '2021, Radical Reworlding Exhibition', description: 'AHVA Gallery, UBC',duration: 'Vancouver, Canada'  },
         {
             isSpecialContent: true,
             videoURL: 'https://player.vimeo.com/video/384156722?h=a86e17dcd3'
