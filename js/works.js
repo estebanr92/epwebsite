@@ -606,14 +606,19 @@ const worksData = {
             " its intrinsic subjectivity and epistemic depth. "
             
         },
-        { file: '../images/IMA_01.jpg', name: 'Opacification strategies', year: '2023', description: 'Video Installation' }, 
-        { file: '../images/IMA_02.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
-        { file: '../images/IMA_03.jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
-        { file: '../images/IMA_04.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
-        { file: '../images/IMA_05.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
-        { file: '../images/IMA_06.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
-        { file: '../images/IMA_07.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
-        { file: '../images/IMA_08.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
+        { file: '../images/IMA_01.jpg', name: 'IMAGO', year: '2024', description: 'Earth, silicone, burnt branch,', dimensions:'bone meal & epoxy resin, metal profile & TV screen'}, 
+        { file: '../images/IMA_02.jpg', name: 'IMAGO', year: '2024', description: 'Detail', }, 
+        { file: '../images/IMA_03.jpg', name: 'IMAGO', year: '2024', description: 'Detail'}, 
+        { file: '../images/IMA_04.jpg', name: 'IMAGO', year: '2024', description: 'Drawing & Installation'}, 
+        { file: '../images/IMA_05.jpg', name: 'IMAGO', year: '2024', description: 'Detail' }, 
+        { file: '../images/IMA_06.jpg', name: 'IMAGO', year: '2024', description: 'Detail', dimensions:'15 x 20 cm' }, 
+        { file: '../images/IMA_07.jpg', name: 'IMAGO', year: '2024', description: 'Exhibition View' }, 
+        { file: '../images/IMA_08.jpg', name: 'IMAGO', year: '2024', description: 'Installation View'},
+        { file: '../images/IMA_04.jpg', name: 'IMAGO', year: '2024', description: 'Drawing & Installation'}, 
+        { file: '../images/IMA_05.jpg', name: 'IMAGO', year: '2024', description: 'Detail' }, 
+        { file: '../images/IMA_06.jpg', name: 'IMAGO', year: '2024', description: 'Detail', dimensions:'15 x 20 cm' }, 
+        { file: '../images/IMA_07.jpg', name: 'IMAGO', year: '2024', description: 'Exhibition View' }, 
+        { file: '../images/IMA_08.jpg', name: 'IMAGO', year: '2024', description: 'Installation View'},
 
     ],
     coll18: [ 
