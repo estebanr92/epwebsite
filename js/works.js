@@ -631,13 +631,13 @@ const worksData = {
             " its intrinsic subjectivity and epistemic depth. "
             
         },
-        { file: '../images/UMO_01.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Alebrijes made of copal resin, ceramics, charcoal, and copal smoke' }, 
+        { file: '../images/UMO_01.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Alebrijes made of copal resin,', dimensions:'ceramics, charcoal, and copal smoke' }, 
         { file: '../images/UMO_02.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Armadillo', }, 
-        { file: '../images/UMO_03.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Smoking snake'}, 
+        { file: '../images/UMO_03.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Smoking Snake'}, 
         { file: '../images/UMO_04.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Exhibition View'}, 
         { file: '../images/UMO_05.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Monkey' }, 
         { file: '../images/UMO_06.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Exhibition View', }, 
-        { file: '../images/UMO_07.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Sólida Galería', dimensions:'Oaxaca, Mexico' }, 
+        { file: '../images/UMO_07.jpg', name: 'Umoinflorescencia', year: '2024', description: 'Sólida Galería', dimensions:'Oaxaca, México' }, 
 
     ],
 };
