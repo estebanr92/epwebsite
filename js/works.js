@@ -51,9 +51,9 @@ const worksData = {
             'text': '<i>Bifurcación Sonora</i> is inspired by Tlön, Uqbar, Orbis Tertius (1962), a short story by Argentinian author Jorge Luis Borges. The work uses the ideologies embedded in Earth’s materiality in order to question the narratives that build and influence our ' + 
             'reality. For instance, the bricks for this construction were made of a mix of Unceded Territory, First Nations Land, and water. The room was filled with the amplified sound of the Earth, recorded from the forest where the First Nations Earth was collected.',
         },
-        { file: '../images/Bifurcacion_Sonora_1.jpg', name: 'Bifurcación Sonora', year: '2020', description: 'Installation/Sound'},  
-        { file: '../images/Bifurcacion_Sonora_2.jpg'}, 
-        { file: '../images/Bifurcacion_Sonora_3.jpg' },
+        { file: '../images/Bifurcacion_Sonora_1.jpg', name: 'Bifurcación Sonora', year: '2020', description: 'Michael O Brien Exhibition Commons', dimensions: 'Vancouver, Canada'},  
+        { file: '../images/Bifurcacion_Sonora_2.jpg', name: 'Detail', description: 'Michael O Brien Exhibition Commons', dimensions: 'Vancouver, Canada'},
+        { file: '../images/Bifurcacion_Sonora_3.jpg', name: 'Installation View', description: 'Michael O Brien Exhibition Commons', dimensions: 'Vancouver, Canada' },
         {
             isSpecialContent: true,
             audioURL: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/902458684&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
