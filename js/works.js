@@ -591,14 +591,9 @@ const worksData = {
             " its intrinsic subjectivity and epistemic depth. "
             
         },
-        { file: '../images/EO001(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Video Installation' }, 
-        { file: '../images/EO002.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
-        { file: '../images/EO003(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
-        { file: '../images/EO004(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
-        { file: '../images/EO005(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
-        { file: '../images/EO006(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
-        { file: '../images/EO007(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
-        { file: '../images/EO008(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
+        { file: '../images/ESP_01.jpg', name: 'Wrapped Gravity (Espora)', year: '2024', description: 'Burnt tarp, tree trunk, red light & TV screen' }, 
+        { file: '../images/ESP_02.jpg', name: 'Wrapped Gravity (Espora)', year: '2024', description: 'Installation View', }, 
+
 
     ],
     coll17: [ 
@@ -611,14 +606,14 @@ const worksData = {
             " its intrinsic subjectivity and epistemic depth. "
             
         },
-        { file: '../images/EO001(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Video Installation' }, 
-        { file: '../images/EO002.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
-        { file: '../images/EO003(web).jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
-        { file: '../images/EO004(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
-        { file: '../images/EO005(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
-        { file: '../images/EO006(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
-        { file: '../images/EO007(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
-        { file: '../images/EO008(web).jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
+        { file: '../images/IMA_01.jpg', name: 'Opacification strategies', year: '2023', description: 'Video Installation' }, 
+        { file: '../images/IMA_02.jpg', name: 'Opacification strategies', year: '2023', description: 'Installation View', }, 
+        { file: '../images/IMA_03.jpg', name: 'Opacification strategies', year: '2023', description: 'Detail'}, 
+        { file: '../images/IMA_04.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Drawing & Installation'}, 
+        { file: '../images/IMA_05.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail' }, 
+        { file: '../images/IMA_06.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Detail', dimensions:'15 x 20 cm' }, 
+        { file: '../images/IMA_07.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View' }, 
+        { file: '../images/IMA_08.jpg', name: 'The Derangement of Memory', year: '2023', description: 'Exhibition View', },
 
     ],
     coll18: [ 
