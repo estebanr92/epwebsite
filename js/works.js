@@ -549,15 +549,15 @@ const worksData = {
             "as sonically animated and conceive their ceremonial music as an extension of the Land."
             
         },
-        { file: '../images/PO4_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Exhibition View' }, 
+        { file: '../images/PO4_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'SBC galerie d’art contemporain', dimensions:'Montreal, Canada' }, 
         { file: '../images/PO7_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Exhibition Detail', }, 
         { file: '../images/PO13_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Exhibition Detail'}, 
         { file: '../images/PO10_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Detail'}, 
         { file: '../images/PO14_web.jpg', name: 'Palimpsestuous Oscillations', year: '2022', description: 'Exhibition Detail' }, 
         { file: '../images/PO17_web.jpg', name: 'ASHGRAN XX3', year: '2022', description: 'Silkscreen on Vellum paper', dimensions:'61 x 45,5 cm' }, 
         { file: '../images/PO18_web.jpg', name: 'ASHGRAN XX3', year: '2022', description: 'Detail' }, 
-        { file: '../images/ASH_01.jpg', name: 'ASHGRAN XX3', year: '2023', description: 'Poste audio at Centre CLARK' }, 
-        { file: '../images/ASH_02.jpg', name: 'ASHGRAN XX3', year: '2023', description: 'Poste audio at Centre CLARK' }, 
+        { file: '../images/ASH_01.jpg', name: 'ASHGRAN XX3', year: '2023', description: 'Poste audio at Centre CLARK', dimensions:'Montreal, Canada'  }, 
+        { file: '../images/ASH_02.jpg', name: 'ASHGRAN XX3', year: '2023', description: 'Poste audio at Centre CLARK', dimensions:'Montreal, Canada'  }, 
         { file: '../images/Ashnola_1.jpg', name: 'Ashnola’s Granular Ice I', year: '2021', description: 'Inkjet print', dimensions:'40 x 22 cm' },
         { file: '../images/Ashnola_2.jpg', name: 'Ashnola’s Granular Ice II', year: '2021', description: 'Inkjet print', dimensions:'40 x 22 cm' }, 
         { file: '../images/Ashnola_3.jpg', name: 'Ashnola’s Granular Ice III', year: '2021', description: 'Inkjet print', dimensions:'40 x 22 cm' }, 
